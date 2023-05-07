@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: black;
+    padding:40px 0px 40px 25px;
+    border-radius: 10%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.link-header{
+    font-size:36px;
+    padding: 5px 10px 5px 10px;
+    background-color: black;
+    text-decoration: transparent;
+    color: white;
+}
+h1{
+    text-align: center;
+    color: black;
+    font-size: 56px;
+}
+p{
+    font-size: 24px;
+    margin-left: 60px;
+}
+nav{
+    padding: 5px 40px 0px 20px;
+}
+footer{
+    padding: 65px 0px 80px 80px;
+}
+.link-nav{
+    color: black;
+    text-decoration: transparent;
+}
